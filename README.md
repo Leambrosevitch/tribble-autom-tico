@@ -1,1 +1,0 @@
-# tribble-autom-tico
